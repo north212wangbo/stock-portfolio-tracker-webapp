@@ -2,6 +2,8 @@
 
 A web-based stock portfolio tracker built with Next.js, an alternative to TradingView's portfolio manager.
 
+🚀 **Live Demo**: Check out the app in action at [https://littlefortune.ai](https://littlefortune.ai)
+
 ## Getting Started
 
 ### Prerequisites
@@ -9,7 +11,7 @@ A web-based stock portfolio tracker built with Next.js, an alternative to Tradin
 - Node.js 18+ 
 - npm or yarn
 - A Google Cloud Platform account (for OAuth)
-- A backend API server (see [Backend Setup](#backend-setup))
+- A backend API server (see [Backend API Setup](#2-backend-api-setup))
 
 ### Installation
 
