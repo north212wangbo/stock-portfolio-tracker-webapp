@@ -4,6 +4,8 @@ A web-based stock portfolio tracker built with Next.js, an alternative to Tradin
 
 🚀 **Live Demo**: Check out the app in action at [https://littlefortune.ai](https://littlefortune.ai)
 
+![Stock Tracker Preview](screenshots/app-preview.png)
+
 ## Getting Started
 
 ### Prerequisites
